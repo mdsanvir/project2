@@ -1,0 +1,14 @@
+.home-caption{
+    margin-top: -1rem;
+}
+.circlechart{
+    text-align: center;
+    padding: 5%;
+   
+}
+.flip-card{
+   margin-left: 15%;
+   padding: 5px 0;
+   transition: 8s;
+
+}
